@@ -1,0 +1,14 @@
+{
+  "name": "treasure-hunt-game",
+  "version": "1.0.0",
+  "description": "Un juego RNG de búsqueda de tesoros",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": ["game", "rng", "treasure", "vercel"],
+  "author": "Kai Studio",
+  "license": "MIT"
+}
